@@ -1,0 +1,68 @@
+{
+  "project_info": {
+    "project_number": "752669747751",
+    "firebase_url": "https://android-demo-fa4b0-default-rtdb.firebaseio.com",
+    "project_id": "android-demo-fa4b0",
+    "storage_bucket": "android-demo-fa4b0.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:752669747751:android:b423a23af998b79c737c02",
+        "android_client_info": {
+          "package_name": "andres.suarez.dbrealtime"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAO4VCM7ich3zLPXO6y3OqjcHHh3E-g3zY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:752669747751:android:1461681b11ac4948737c02",
+        "android_client_info": {
+          "package_name": "andres.suarez.java"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAO4VCM7ich3zLPXO6y3OqjcHHh3E-g3zY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:752669747751:android:8d0e43317a4b20a1737c02",
+        "android_client_info": {
+          "package_name": "com.example.myapplication"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAO4VCM7ich3zLPXO6y3OqjcHHh3E-g3zY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
